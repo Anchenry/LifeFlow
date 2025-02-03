@@ -37,12 +37,6 @@ Run locally:
 ```angular2html
 npm run dev  # Starts both backend and frontend
 ```
-### 🤝 Contributing
-We welcome contributions! Here’s how:  
-Fork the repository.  
-Create a branch for your feature: git checkout -b feature/amazing-idea.  
-Submit a pull request with clear documentation.  
-Follow our Code of Conduct.
 ---
 
 ## 中文
@@ -72,12 +66,5 @@ npm install
 ```angular 2html
 npm run dev  # Starts both backend and frontend
 ```
-
-### 🤝 贡献
-我们欢迎捐款！方法如下：  
-分叉存储库  
-为你的功能创建一个分支：git checkout -b feature/amazing-idea  
-提交带有清晰文档的拉取请求  
-遵守我们的行为准则
 ---
 
